@@ -1,0 +1,101 @@
+.rootdiv{
+    width: 500px;
+    height: 950px;
+    background-color: white;
+    margin: auto;
+
+
+}
+
+.header{
+    background-color: rgb(230, 230, 241);
+    height: 100px;
+    text-align: center;
+    border-style: solid;
+    border-color: pink; 
+    font-size: xx-small;
+    
+
+}
+
+.body{
+    background-color: aliceblue;
+    /*height: 500px;*/
+    padding:10px;
+    font-size: small;
+    
+    }
+
+.footer{
+         background-color: pink;
+         margin-top: 10px 0 10px 0;
+         
+}
+
+ .gov{
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+        border-color: blue;
+        border-style: solid;
+    }
+
+   .name, .name{
+        height: 5px;
+    }
+
+  /*gandp{
+        border-color: brown;
+        border-style: solid;
+          
+    } */
+
+    .about{
+        background-color: pink;
+        border-radius: 10px;
+        padding: 10px
+      }
+
+    .about2{
+        margin: 10px
+    }
+
+    .skills{
+       /* height: 75px; */
+        background-color: pink;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        border-radius: 10px;
+    }
+
+
+
+    .skilliner{
+        padding: 10px;
+        margin: 10px;
+    }
+    .diffskills{
+        background-color: blue;
+        margin: 5px;
+        padding: 5px;
+
+    
+    }
+
+    .pro{
+        height: 360px;
+        background-color: pink;
+        border-radius: 10px;
+    }
+    .proff{
+        padding: 10px;
+    }
+    
+    .foot-content{
+        padding: 10px;
+        text-align: center;
+    }
+
+    
+
+    

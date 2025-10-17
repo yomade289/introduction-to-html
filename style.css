@@ -1,0 +1,33 @@
+.introduction{
+    color: white;
+    background-color: black;
+}
+
+#first-css, h2 {
+    color: blue;
+    background-color: white;
+    font-size: smaller;
+}
+
+body{
+    background-color: cyan;
+} 
+
+p{  
+    background-color: purple;
+    color: white;
+}
+
+table{
+    background-color: orange;
+    color: blue;
+    font-size: x-small;
+}
+
+.form {
+    background-image: url("./asset/osun-tag\ -\ Copy.jpg");
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: top left;
+    background-attachment: scroll;
+}

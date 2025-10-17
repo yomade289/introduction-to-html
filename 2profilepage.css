@@ -1,0 +1,35 @@
+.rootdiv{
+    width: 500px;
+    height: 900px;
+    background-color: white;
+    margin: auto;
+}
+
+.header{
+    background-color: white;
+    height: 100px;
+    text-align: center;
+    border-style: solid;
+    border-color: orange;
+}
+
+.img{ 
+    height: 100px;
+    width: 100px;
+}
+
+.body{
+    background-color: white;
+    height: 500px;
+    padding: 10px;
+}
+
+.details{
+    background-color: orange;
+    margin-top: 10px 0 10px 0;
+}
+
+.img{
+    height: 50px;
+    
+}

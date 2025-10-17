@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    gap: 30px;
+    
+}
+
+.grid-container{
+    background-color: skyblue;
+    display: grid;
+    grid-template-columns: auto auto auto; 
+    justify-content: center;
+    padding: 20px;
+    gap: 10px;
+
+}
+
+.grid-container div{
+    background-color: blue;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    height: 80px;
+    width: 80px;
+}
+
+.grid-container{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
