@@ -5,6 +5,10 @@
     margin: auto;
 }
 
+body{
+    background-color: bisque;
+}
+
 .header{
     background-color: white;
     height: 100px;
@@ -24,12 +28,49 @@
     padding: 10px;
 }
 
-.details{
-    background-color: orange;
-    margin-top: 10px 0 10px 0;
-}
-
 .img{
     height: 50px;
     
+}
+
+.kilishi{
+    background-color: orange;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.kulikuli{
+    background-color: orange;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Peanut{
+    background-color: orange;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Chips{
+    background-color: orange;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Kokoro{
+    background-color: orange;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Danbunama{
+    background-color: orange;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
 }
